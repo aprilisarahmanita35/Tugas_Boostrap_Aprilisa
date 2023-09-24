@@ -1,0 +1,97 @@
+body {
+font-family: poppins; 
+background-image: url(https://eduwork.id/assets/bg-hero.png);
+background-size: cover;
+}
+
+.header {
+margin: 150px;
+}
+
+.header-title {
+font-weight: bolder;
+color: rgb(64, 64, 64);
+}
+
+.header-text {
+color: rgb(64, 64, 64);
+margin-top: 30px;
+}
+
+.arrow {
+display: flex;
+justify-content: center;
+text-align: center;
+width: 220%;
+}
+
+.stepper-number {
+background-color: #187CFF;
+border-radius: 50%;
+text-align: center;
+color: white;
+margin-top: 10px;
+padding: 4px 18px 4px 13px;
+}
+
+.stepper-line {
+border-left: 2px dotted #187CFF;
+height: 30px;
+margin-bottom: -12px;
+margin-left: 11px;
+}
+
+.arrow-down {
+border: solid #187CFF;
+border-width: 0 2px 2px 0;
+display: inline-block;
+padding: 3px;
+transform: rotate(45deg);
+margin-left: 12px;
+}
+
+.button {
+width: 500px; 
+margin-top: 20px; 
+margin-bottom: 20px;
+}
+
+.btn-free {
+position: absolute; 
+background-color: #FF0000; 
+padding: 5px 11px; 
+font-size: 12px;
+border-radius: 50px; 
+color: #FFFFFF; 
+margin-left: 150px; 
+margin-top: -20px;
+}
+
+.btn-daftar {
+background-color: rgb(24 124 255);
+border-radius: 5px;
+text-decoration: none;
+color: azure;
+font-size: 14px;
+padding: 11px 45px;
+}
+
+.btn-konsul {
+background-color: rgb(255 210 0);
+border-radius: 5px;
+text-decoration: none;
+color: rgb(64, 64, 64);
+font-size: 14px;
+padding: 11px 45px;
+}
+
+.text-box {
+background-color: #FFFFFF;
+backdrop-filter: blur(1px);
+text-align: center;
+margin-left: 180px;
+margin-top: -100px;
+margin-right: -80px;
+border-radius : 5px;
+padding: 10px;
+}
